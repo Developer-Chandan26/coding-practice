@@ -47,3 +47,5 @@ I believe in:-
 ---
 
 ⭐ This repository is a part of my journey toward becoming a Full-Stack MERN Developer.
+
+⭐ 1% Better Every Day
